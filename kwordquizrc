@@ -1,0 +1,24 @@
+[Document ]
+SizeHintColumn0=250
+SizeHintColumn1=250
+
+[General]
+FirstRun=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA4YAAAGPAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAQAAAAEAAAAWAHEAdQBpAHoAVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABjAGgAYQByAGEAYwB0AGUAcgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=478
+eDP-1 Width 1920x1080=902
+eDP-1 XPosition 1920x1080=1005
+eDP-1 YPosition 1920x1080=589
+
+[Recent Files]
+File1[$e]=/usr/share/kwordquiz/examples/example.kvtml
+File2[$e]=/usr/share/kwordquiz/examples/french_verbs.kvtml
+File3[$e]=/usr/share/kwordquiz/examples/fill_in_the_blank.kvtml
+File4[$e]=/usr/share/kwordquiz/examples/us_states_and_capitals.kvtml
+Name1[$e]=example.kvtml
+Name2[$e]=french_verbs.kvtml
+Name3[$e]=fill_in_the_blank.kvtml
+Name4[$e]=us_states_and_capitals.kvtml

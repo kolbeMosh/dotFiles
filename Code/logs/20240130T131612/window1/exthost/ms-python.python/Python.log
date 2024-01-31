@@ -1,0 +1,10 @@
+2024-01-30 13:16:24.588 [info] Experiment 'pythonaacf' is active
+2024-01-30 13:16:24.588 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-30 13:16:24.588 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-30 13:16:24.588 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-30 13:16:24.588 [info] Experiment 'pythonTestAdapter' is active
+2024-01-30 13:16:24.588 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/kolbe/CSCI_251
+2024-01-30 13:16:24.588 [info] Python interpreter path: /bin/python3
+2024-01-30 13:16:24.588 [info] Test server listening.
+2024-01-30 13:16:24.905 [info] > conda info --json
+2024-01-30 13:16:26.363 [info] Starting Pylance language server.

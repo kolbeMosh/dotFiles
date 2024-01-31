@@ -1,0 +1,10 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.plasma.notes
+
+[Applets][3][Configuration]
+geometry=880,449,160,160
+
+[Applets][3][Configuration][General]
+fontSize=10
+noteId=047ec59c-994e-4d7f-9f42-b1beca1b73

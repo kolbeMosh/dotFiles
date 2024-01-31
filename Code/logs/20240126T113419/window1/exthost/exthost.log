@@ -1,0 +1,44 @@
+2024-01-26 11:34:23.482 [info] Extension host with pid 600829 started
+2024-01-26 11:34:23.482 [info] Skipping acquiring lock for /home/kolbe/.config/Code/User/workspaceStorage/effe572f82bff2cef82a426af62ab147.
+2024-01-26 11:34:23.511 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-26 11:34:23.516 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-26 11:34:23.535 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-26 11:34:23.562 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-26 11:34:23.846 [info] Eager extensions activated
+2024-01-26 11:34:23.851 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:23.855 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:23.867 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:23.893 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:23.954 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:46.721 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-26 11:34:46.744 [info] Extension host with pid 600829 exiting with code 0
+2024-01-26 11:34:47.644 [info] Extension host with pid 605076 started
+2024-01-26 11:34:47.645 [info] Skipping acquiring lock for /home/kolbe/.config/Code/User/workspaceStorage/3808407b8a853dc665db6d0bdfcc7ba5.
+2024-01-26 11:34:47.678 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-26 11:34:47.684 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-26 11:34:47.706 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-26 11:34:47.761 [info] Eager extensions activated
+2024-01-26 11:34:47.826 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:47.828 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:47.836 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:47.859 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:34:47.916 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:35:02.423 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-26 11:35:02.439 [info] Extension host with pid 605076 exiting with code 0
+2024-01-26 11:35:03.439 [info] Extension host with pid 607809 started
+2024-01-26 11:35:03.439 [info] Skipping acquiring lock for /home/kolbe/.config/Code/User/workspaceStorage/9457b42f41cc4e3129caa7a7e8c906bf.
+2024-01-26 11:35:03.489 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-26 11:35:03.492 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-26 11:35:03.509 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-26 11:35:03.532 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-26 11:35:03.696 [info] Eager extensions activated
+2024-01-26 11:35:03.723 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:35:03.725 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:35:03.732 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:35:03.751 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:35:03.803 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-26 11:35:03.984 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-26 11:35:56.519 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-01-26 11:35:56.563 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-26 11:36:35.805 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-01-26 11:36:35.829 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'

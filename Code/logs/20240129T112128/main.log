@@ -1,0 +1,16 @@
+2024-01-29 11:21:29.133 [info] update#setState idle
+2024-01-29 11:21:39.126 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:21:39.127 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:21:39.129 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:21:42.130 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:21:42.834 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:21:44.114 [info] Extension host with pid 5345 exited with code: 0, signal: unknown.
+2024-01-29 11:21:59.138 [info] update#setState checking for updates
+2024-01-29 11:21:59.151 [info] update#setState available for download
+2024-01-29 11:22:10.728 [info] Extension host with pid 5839 exited with code: 0, signal: unknown.
+2024-01-29 11:22:10.744 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:22:11.409 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:27:17.129 [info] Extension host with pid 8604 exited with code: 0, signal: unknown.
+2024-01-29 11:27:17.139 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8627]: crashed with code 15 and reason 'killed'
+2024-01-29 11:27:17.144 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 11:27:17.983 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.

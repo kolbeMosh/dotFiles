@@ -1,0 +1,14 @@
+import BinaryGate
+
+class OrGate(BinaryGate):
+   def __init__(self, lbl: str):
+      super.__init__(lbl)
+    #   self.pin_a = None
+    #   self.pin_b = None
+   def perform_gate_logic(self) -> None:
+      if (pin_a != None and pin_b != None):
+        return pin_a or pin_b
+      else:
+         set_pin_a()
+         set_pin_b()
+         return pin_a or pin_b

@@ -1,0 +1,40 @@
+import { Button } from '@nextui-org/react';
+import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+import {
+  Carousel as ResponsiveCarousel,
+  CarouselProps as ResponsiveCarouselProps
+} from 'react-responsive-carousel';
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
+
+export type CarouselProps = {
+  photoCollection?: any;
+  items: any;
+  showArrows: any;
+  infiniteLoop?: boolean;
+  showIndicators?: boolean;
+  autoPlay?: any;
+  interval?: any;
+};
+
+export const Carousel = ({
+  showArrows = true,
+  showIndicators = true,
+  infiniteLoop = true,
+  autoPlay = false,
+  items,
+  ...props
+}: CarouselProps) => {
+  return (
+    <ResponsiveCarousel
+      infiniteLoop={infiniteLoop}
+      showArrows={showArrows}
+      showIndicators={showIndicators}
+      autoPlay={autoPlay}
+    >
+      {items.map((item) => (
+        <img src={item} />
+      ))}
+    </ResponsiveCarousel>
+  );
+};

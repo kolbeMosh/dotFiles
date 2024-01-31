@@ -1,0 +1,10 @@
+[FileDialogSize]
+eDP-1 HDMI-1-0 Height 3440x1440=480
+eDP-1 HDMI-1-0 Width 3440x1440=640
+eDP-1 Height 1920x1080=600
+eDP-1 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=Untitled-2023-08-25-1135.png,file:$HOME/Pictures/Webcam/2023-12-19-154055.jpg,file:$HOME/Downloads/slack-desktop-4.35.131-amd64.deb,file:$HOME/Downloads/test-picture-id996396804-3775507672.jpeg,file:$HOME/Pictures/wallpaper.jpeg,file:$HOME/.config/kitty/thumbnail.jpeg
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/.config/kitty/,file:///run/user/1000/doc/4b831dbb/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Music/,file:$HOME/Pictures/Webcam/
+detailViewIconSize=16

@@ -1,0 +1,30 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,5,12,19,3,59.97
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080=644
+eDP-1 Width 1920x1080=498
+
+[MainWindow]
+HDMI-1-0 eDP-1 Height 1920x1080=610
+HDMI-1-0 eDP-1 Width 1920x1080=760
+HDMI-1-0 eDP-1 Window-Maximized 3840x2160=true
+HDMI-1-0 eDP-1 XPosition 1920x1080=580
+HDMI-1-0 eDP-1 YPosition 1920x1080=835
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 1920x1080=610
+eDP-1 HDMI-1-0 Width 1920x1080=760
+eDP-1 HDMI-1-0 XPosition 1920x1080=580
+eDP-1 HDMI-1-0 YPosition 1920x1080=205
+eDP-1 Height 1920x1080=657
+eDP-1 Width 1920x1080=1280
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 Window-Maximized 698x393=true
+eDP-1 XPosition 1920x1080=559
+eDP-1 YPosition 1920x1080=193
+
+[Open-with settings]
+CompletionMode=1
+History=

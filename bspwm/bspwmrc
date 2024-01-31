@@ -1,0 +1,30 @@
+#!/bin/sh
+if [[ $(xrandr -q | grep 'HDMI-1-0 connected') ]]; then
+	xrandr --output eDP-1 --mode 1920x1080 --rotate normal --output HDMI-1-0 --primary --mode 3440x1440 --dpi 192 --fbmm 621x341 --scale 0.75x0.75 --rotate normal --right-of eDP-1
+	bspc monitor HDMI-1-0 -d V VI VII VIII
+fi
+
+bspc monitor HDMI-1-0 -d V VI VII VIII
+bspc monitor eDP-1 -d I II III IV
+
+bspc config border_width        1
+bspc config window_gap          12
+
+#bspc config border_width 0
+#bspc config top_padding 30
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Chromium desktop='^2'
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+
+feh --bg-fill ~/Pictures/wallpaper.jpeg
+~/.config/polybar/start.sh >> ~/.config/polybar/log
+picom -b
+
+killall sxhkd
+sxhkd >~/log &

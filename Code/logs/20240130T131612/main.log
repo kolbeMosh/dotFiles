@@ -1,0 +1,8 @@
+2024-01-30 13:16:12.756 [info] update#setState idle
+2024-01-30 13:16:22.751 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-30 13:16:22.753 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-30 13:16:22.759 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-30 13:16:42.761 [info] update#setState checking for updates
+2024-01-30 13:16:42.772 [info] update#setState available for download
+2024-01-30 13:17:00.289 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-30 13:18:40.477 [info] Extension host with pid 26673 exited with code: 0, signal: unknown.

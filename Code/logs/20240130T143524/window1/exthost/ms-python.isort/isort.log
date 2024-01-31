@@ -1,0 +1,82 @@
+2024-01-30 14:35:30.208 [info] Name: isort
+2024-01-30 14:35:30.208 [info] Module: isort
+2024-01-30 14:35:30.208 [info] Python extension loading
+2024-01-30 14:35:30.208 [info] Waiting for interpreter from python extension.
+2024-01-30 14:35:30.208 [info] No interpreter found from setting isort.interpreter
+2024-01-30 14:35:30.208 [info] Getting interpreter from ms-python.python extension for workspace /home/kolbe/Dev/Tree
+2024-01-30 14:35:30.208 [info] Python extension loaded
+2024-01-30 14:35:30.208 [info] Interpreter from ms-python.python extension for /home/kolbe/Dev/Tree: /bin/python3
+2024-01-30 14:35:30.208 [info] No interpreter found from setting isort.interpreter
+2024-01-30 14:35:30.208 [info] Getting interpreter from ms-python.python extension for workspace /home/kolbe/Dev/Tree
+2024-01-30 14:35:30.208 [info] Interpreter from ms-python.python extension for /home/kolbe/Dev/Tree: /bin/python3
+2024-01-30 14:35:30.208 [info] Server run command: /bin/python3 /home/kolbe/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2024-01-30 14:35:30.208 [info] Server: Start requested.
+2024-01-30 14:35:31.557 [info] CWD Server: /home/kolbe/Dev/Tree
+2024-01-30 14:35:31.558 [info] sys.path used to run Server:
+   /home/kolbe/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/kolbe/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python310.zip
+   /usr/lib/python3.10
+   /usr/lib/python3.10/lib-dynload
+   /home/kolbe/.local/lib/python3.10/site-packages
+   /usr/local/lib/python3.10/dist-packages
+   /usr/lib/python3/dist-packages
+2024-01-30 14:35:31.558 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/kolbe/Dev/Tree",
+        "workspace": "file:///home/kolbe/Dev/Tree",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-01-30 14:35:31.558 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/kolbe/Dev/Tree",
+    "workspace": "/home/kolbe/Dev/Tree",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-01-30 14:35:31.563 [info] /bin/python3 -m isort --version-number
+2024-01-30 14:35:31.563 [info] CWD Linter: /home/kolbe/Dev/Tree
+2024-01-30 14:35:31.572 [info] Version info for isort running for /home/kolbe/Dev/Tree:
+5.11.5
+
+2024-01-30 14:35:31.572 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2024-01-30 14:35:31.596 [info] [Trace - 2:35:31 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-30 14:35:31.604 [info] [Trace - 2:35:31 PM] Sending request 'textDocument/codeAction - (1)'.
+2024-01-30 14:35:31.614 [info] [Trace - 2:35:31 PM] Received response 'textDocument/codeAction - (1)' in 10ms.
+2024-01-30 14:35:32.138 [info] [Trace - 2:35:32 PM] Sending request 'textDocument/codeAction - (2)'.
+2024-01-30 14:35:32.142 [info] [Trace - 2:35:32 PM] Received response 'textDocument/codeAction - (2)' in 4ms.
+2024-01-30 14:37:20.513 [info] [Trace - 2:37:20 PM] Sending request 'textDocument/codeAction - (3)'.
+2024-01-30 14:37:20.517 [info] [Trace - 2:37:20 PM] Received response 'textDocument/codeAction - (3)' in 4ms.
+2024-01-30 14:37:21.488 [info] [Trace - 2:37:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-30 14:37:21.715 [info] [Trace - 2:37:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-30 14:37:21.969 [info] [Trace - 2:37:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-30 14:37:22.131 [info] [Trace - 2:37:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-30 14:37:22.387 [info] [Trace - 2:37:22 PM] Sending request 'textDocument/codeAction - (4)'.
+2024-01-30 14:37:22.392 [info] [Trace - 2:37:22 PM] Received response 'textDocument/codeAction - (4)' in 5ms.
+2024-01-30 14:37:22.845 [info] [Trace - 2:37:22 PM] Sending notification 'textDocument/didSave'.
+2024-01-30 14:37:22.854 [info] [Trace - 2:37:22 PM] Received notification 'textDocument/publishDiagnostics'.

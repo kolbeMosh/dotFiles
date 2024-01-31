@@ -1,0 +1,17 @@
+added hero component
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch IBC-581-Hero-Carousel
+# Your branch and 'origin/IBC-581-Hero-Carousel' have diverged,
+# and have 3 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# Changes to be committed:
+new file:   apps/ignatius-book-fairs/src/app/HomePage/Hero.tsx
+modified:   packages/ui/package.json
+new file:   packages/ui/src/components/Carousel/Carousel.tsx
+modified:   packages/ui/src/components/index.ts
+modified:   packages/ui/tsconfig.json
+modified:   pnpm-lock.yaml
+#

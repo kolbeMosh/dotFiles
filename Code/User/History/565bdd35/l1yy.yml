@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  nodejs:
+    build: ./node 
+    environment:
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongodb
+  mongodb:
+    build: ./mongodb
+    volumes:
+      - type: volume
+        source: mongodb
+        target: /data/db
+      ports:
+        - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD} 
+volumes:
+  mongodb:

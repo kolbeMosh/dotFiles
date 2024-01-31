@@ -1,0 +1,22 @@
+digraph finite_state_machine {
+	rankdir=LR
+	size="8,5"
+    layout=dot
+	node [shape = doublecircle]; 4;
+	node [shape = circle];
+
+    -1 [color="white", label=""]
+    0 [label="start"]
+    1 [label="a"]
+    2 [label="ab"]
+    3 [label="aba"]
+    -1 -> 0 
+    0 -> 0 [label="b"]
+    0 -> 1 [label="a"]
+    1 -> 0 [label="a"]
+    1 -> 2 [label="b"]
+    2 -> 0 [label="b"]
+    2 -> 3 [label="a"]
+
+
+}

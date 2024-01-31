@@ -1,0 +1,17 @@
+2024-01-29 19:51:37.240 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-29 19:51:37.882 [info] [Info  - 7:51:37 PM] (12897) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-29 19:51:37.882 [info] [Info  - 7:51:37 PM] (12897) Server root directory: /home/kolbe/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-29 19:51:37.891 [info] [Info  - 7:51:37 PM] (12897) Starting service instance "CSCI_251"
+2024-01-29 19:51:37.975 [info] [Info  - 7:51:37 PM] (12897) Setting pythonPath for service "CSCI_251": "/bin/python3"
+2024-01-29 19:51:37.975 [info] [Info  - 7:51:37 PM] (12897) Setting environmentName for service "CSCI_251": "3.10.6 (global)"
+2024-01-29 19:51:38.020 [info] [Info  - 7:51:38 PM] (12897) Assuming Python version 3.10
+2024-01-29 19:51:38.098 [info] [Info  - 7:51:38 PM] (12897) Found 10 source files
+2024-01-29 19:58:38.796 [info] [Info  - 7:58:38 PM] (12897) Found 10 source files
+2024-01-29 19:58:47.369 [info] [Info  - 7:58:47 PM] (12897) Found 11 source files
+2024-01-29 20:54:57.008 [info] [Info  - 8:54:57 PM] (12897) Found 11 source files
+2024-01-29 22:07:38.358 [info] [Info  - 10:07:38 PM] (12897) Found 11 source files
+2024-01-29 22:10:24.211 [info] [Info  - 10:10:24 PM] (12897) Found 12 source files
+2024-01-29 22:11:32.231 [info] [Info  - 10:11:32 PM] (12897) Found 13 source files
+2024-01-29 22:11:44.395 [info] [Info  - 10:11:44 PM] (12897) Found 14 source files
+2024-01-29 22:34:41.598 [info] [Info  - 10:34:41 PM] (12897) Found 15 source files
+2024-01-29 22:53:10.653 [info] [Info  - 10:53:10 PM] (12897) Found 16 source files

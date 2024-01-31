@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.minimap.enabled": false
+}

@@ -1,0 +1,26 @@
+[General]
+Recent Urls[$e]=file:$HOME/Downloads/rainy-night-in-the-sci-fi-city-moewalls.com.mp4
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAosAAACbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=262
+eDP-1 Width 1920x1080=651
+eDP-1 XPosition 1920x1080=634
+eDP-1 YPosition 1920x1080=347
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=1
+
+[file:///home/kolbe/Downloads/rainy-night-in-the-sci-fi-city-moewalls.com.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2022,5,17
+Hue=0
+IsVideo=true
+Position=2655
+Preferred Size=651,155
+Saturation=0

@@ -1,0 +1,22 @@
+Visual Studio Code (1.85.1, undefined, desktop)
+Jupyter Extension Version: 2023.11.1100101639.
+Python Extension Version: 2023.22.1.
+Pylance Extension Version: 2023.12.1.
+Platform: linux (x64).
+Workspace folder ~/CSCI_251, Home = /home/kolbe
+19:51:36.377 [info] Start refreshing Kernel Picker (1706575896377)
+19:51:36.384 [info] Using Pylance
+19:51:36.798 [warn] Failed to get activated env vars for /bin/python3 in 357ms
+19:51:36.824 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+19:51:36.922 [info] Process Execution: /bin/python3 -m pip list
+19:51:37.441 [info] End refreshing Kernel Picker (1706575896377)
+21:30:16.156 [info] Ending debug session a6714e45-4962-4011-bcda-3ac261de8e7f
+21:30:16.156 [info] Ending debug session a6714e45-4962-4011-bcda-3ac261de8e7f
+21:30:43.518 [info] Ending debug session a6714e45-4962-4011-bcda-3ac261de8e7f
+21:30:43.518 [info] Ending debug session a6714e45-4962-4011-bcda-3ac261de8e7f
+21:35:28.117 [info] Ending debug session a6714e45-4962-4011-bcda-3ac261de8e7f
+21:35:28.117 [info] Ending debug session a6714e45-4962-4011-bcda-3ac261de8e7f
+22:00:54.501 [info] Ending debug session e97b5b4e-f354-4a04-9808-eefda4836e00
+22:00:54.501 [info] Ending debug session e97b5b4e-f354-4a04-9808-eefda4836e00
+00:30:21.249 [info] Disposing HostJupyterExecution
+00:30:21.249 [info] Disposing HostJupyterExecution

@@ -1,0 +1,3 @@
+const getStd = (returnRates, mean) => {
+    
+}

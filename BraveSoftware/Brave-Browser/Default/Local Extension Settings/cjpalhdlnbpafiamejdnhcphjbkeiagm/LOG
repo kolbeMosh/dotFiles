@@ -1,0 +1,29 @@
+2024/01/17-11:32:46.079 6612c Reusing MANIFEST /home/kolbe/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/01/17-11:32:46.079 6612c Recovering log #21
+2024/01/17-11:32:46.085 6612c Reusing old log /home/kolbe/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000021.log 
+2024/01/17-11:33:27.357 6612d Level-0 table #25: started
+2024/01/17-11:33:27.379 6612d Level-0 table #25: 2377324 bytes OK
+2024/01/17-11:33:27.381 6612d Delete type=0 #21
+2024/01/17-11:33:31.453 66130 Level-0 table #27: started
+2024/01/17-11:33:31.474 66130 Level-0 table #27: 1615411 bytes OK
+2024/01/17-11:33:31.476 66130 Delete type=0 #24
+2024/01/17-11:35:49.996 6612d Level-0 table #29: started
+2024/01/17-11:35:50.064 6612d Level-0 table #29: 2198133 bytes OK
+2024/01/17-11:35:50.068 6612d Delete type=0 #26
+2024/01/17-11:35:50.071 6612d Compacting 4@0 + 4@1 files
+2024/01/17-11:35:50.157 6612d Generated table #30@0: 11 keys, 2604930 bytes
+2024/01/17-11:35:50.208 6612d Generated table #31@0: 17 keys, 2276980 bytes
+2024/01/17-11:35:50.210 6612d Generated table #32@0: 6 keys, 131865 bytes
+2024/01/17-11:35:50.210 6612d Compacted 4@0 + 4@1 files => 5013775 bytes
+2024/01/17-11:35:50.212 6612d compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/01/17-11:35:50.212 6612d Delete type=2 #16
+2024/01/17-11:35:50.212 6612d Delete type=2 #19
+2024/01/17-11:35:50.212 6612d Delete type=2 #25
+2024/01/17-11:35:50.212 6612d Delete type=2 #18
+2024/01/17-11:35:50.212 6612d Delete type=2 #22
+2024/01/17-11:35:50.212 6612d Delete type=2 #29
+2024/01/17-11:35:50.212 6612d Delete type=2 #27
+2024/01/17-11:35:50.212 6612d Delete type=2 #17
+2024/01/17-11:38:36.377 6612d Level-0 table #34: started
+2024/01/17-11:38:36.406 6612d Level-0 table #34: 3700060 bytes OK
+2024/01/17-11:38:36.408 6612d Delete type=0 #28

@@ -1,0 +1,75 @@
+2024-01-30 13:16:24.724 [info] Name: isort
+2024-01-30 13:16:24.724 [info] Module: isort
+2024-01-30 13:16:24.724 [info] Python extension loading
+2024-01-30 13:16:24.724 [info] Waiting for interpreter from python extension.
+2024-01-30 13:16:24.724 [info] No interpreter found from setting isort.interpreter
+2024-01-30 13:16:24.724 [info] Getting interpreter from ms-python.python extension for workspace /home/kolbe/CSCI_251
+2024-01-30 13:16:24.724 [info] Python extension loaded
+2024-01-30 13:16:24.724 [info] Interpreter from ms-python.python extension for /home/kolbe/CSCI_251: /bin/python3
+2024-01-30 13:16:24.724 [info] No interpreter found from setting isort.interpreter
+2024-01-30 13:16:24.724 [info] Getting interpreter from ms-python.python extension for workspace /home/kolbe/CSCI_251
+2024-01-30 13:16:24.724 [info] Interpreter from ms-python.python extension for /home/kolbe/CSCI_251: /bin/python3
+2024-01-30 13:16:24.724 [info] Server run command: /bin/python3 /home/kolbe/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2024-01-30 13:16:24.724 [info] Server: Start requested.
+2024-01-30 13:16:25.730 [info] CWD Server: /home/kolbe/CSCI_251
+2024-01-30 13:16:25.731 [info] sys.path used to run Server:
+   /home/kolbe/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/kolbe/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python310.zip
+   /usr/lib/python3.10
+   /usr/lib/python3.10/lib-dynload
+   /home/kolbe/.local/lib/python3.10/site-packages
+   /usr/local/lib/python3.10/dist-packages
+   /usr/lib/python3/dist-packages
+2024-01-30 13:16:25.731 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/kolbe/CSCI_251",
+        "workspace": "file:///home/kolbe/CSCI_251",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-01-30 13:16:25.731 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/kolbe",
+    "workspace": "/home/kolbe",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-01-30 13:16:25.735 [info] /bin/python3 -m isort --version-number
+2024-01-30 13:16:25.735 [info] CWD Linter: /home/kolbe/CSCI_251
+2024-01-30 13:16:25.740 [info] Version info for isort running for /home/kolbe/CSCI_251:
+5.11.5
+
+2024-01-30 13:16:25.740 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2024-01-30 13:16:25.761 [info] [Trace - 1:16:25 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-30 13:16:25.779 [info] [Trace - 1:16:25 PM] Sending request 'textDocument/codeAction - (1)'.
+2024-01-30 13:16:25.793 [info] [Trace - 1:16:25 PM] Received response 'textDocument/codeAction - (1)' in 14ms.
+2024-01-30 13:16:26.378 [info] [Trace - 1:16:26 PM] Sending request 'textDocument/codeAction - (2)'.
+2024-01-30 13:16:26.394 [info] [Trace - 1:16:26 PM] Received response 'textDocument/codeAction - (2)' in 16ms.
+2024-01-30 13:18:40.461 [info] [Trace - 1:18:40 PM] Sending request 'shutdown - (3)'.
+2024-01-30 13:18:40.467 [info] [Trace - 1:18:40 PM] Received response 'shutdown - (3)' in 14ms.
+2024-01-30 13:18:40.468 [info] [Trace - 1:18:40 PM] Sending notification 'exit'.

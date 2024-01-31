@@ -1,0 +1,19 @@
+2024-01-30 14:35:30.085 [info] Experiment 'pythonaacf' is active
+2024-01-30 14:35:30.085 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-30 14:35:30.085 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-30 14:35:30.085 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-30 14:35:30.085 [info] Experiment 'pythonTestAdapter' is active
+2024-01-30 14:35:30.085 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/kolbe/Dev/Tree
+2024-01-30 14:35:30.085 [info] Test server listening.
+2024-01-30 14:35:30.085 [info] Python interpreter path: /bin/python3
+2024-01-30 14:35:30.085 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.085 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.202 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.203 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.203 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.203 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.203 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:30.292 [info] > conda info --json
+2024-01-30 14:35:30.420 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-30 14:35:32.126 [info] Starting Pylance language server.
+2024-01-30 14:37:23.099 [info] Discover tests for workspace name: Tree - uri: /home/kolbe/Dev/Tree/Node.py

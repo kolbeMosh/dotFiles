@@ -1,0 +1,8 @@
+2024-01-30 14:35:30.861 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-30 14:35:32.078 [info] [Info  - 2:35:32 PM] (199823) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-30 14:35:32.078 [info] [Info  - 2:35:32 PM] (199823) Server root directory: /home/kolbe/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-30 14:35:32.094 [info] [Info  - 2:35:32 PM] (199823) Starting service instance "Tree"
+2024-01-30 14:35:32.171 [info] [Info  - 2:35:32 PM] (199823) Setting pythonPath for service "Tree": "/bin/python3"
+2024-01-30 14:35:32.172 [info] [Info  - 2:35:32 PM] (199823) Setting environmentName for service "Tree": "3.10.6 (global)"
+2024-01-30 14:35:32.284 [info] [Info  - 2:35:32 PM] (199823) Assuming Python version 3.10
+2024-01-30 14:35:32.568 [info] [Info  - 2:35:32 PM] (199823) Found 1 source file

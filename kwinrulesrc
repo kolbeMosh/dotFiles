@@ -1,0 +1,10 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[ba709a40-674d-48ee-a43e-619b4b824171]
+Description=Application settings for plasmawindowed
+clientmachine=localhost
+position=1440,0
+positionrule=3
+wmclass=plasmawindowed
+wmclassmatch=1

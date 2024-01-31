@@ -1,0 +1,9 @@
+2024-01-29 19:51:25.545 [info] update#setState idle
+2024-01-29 19:51:35.542 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 19:51:35.543 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 19:51:35.547 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-29 19:51:55.547 [info] update#setState checking for updates
+2024-01-29 19:51:55.549 [info] update#setState available for download
+2024-01-29 21:30:02.006 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-01-30 00:30:21.266 [info] Extension host with pid 12633 exited with code: 0, signal: unknown.
+2024-01-30 00:30:21.271 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 11464]: crashed with code 15 and reason 'killed'

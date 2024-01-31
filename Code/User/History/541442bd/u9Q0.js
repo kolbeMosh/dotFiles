@@ -1,0 +1,1 @@
+const getInterestMean = (returnValues, returnValueMean, marketReturnValues, marketReturnValuesMean) => {

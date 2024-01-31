@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --ibc-blue: 2 23 111;
+    --ibc-light-blue: 35 121 251;
+    --ibc-dark-blue: 0 36 76;
+    --ibc-yellow: 255 228 107;
+    --ibc-orange: 236 139 36;
+    --ibc-lime: 147 230 116;
+    --ibc-pink: 255 128 139;
+    --ibc-red: 250 89 68;
+    --ibc-purple: 127 131 255;
+    --ibc-green: 80 219 146;
+    --ibc-gray: 234 242 247;
+    --ibc-gray-2: 99 99 99;
+    --light-neutral-secondary: 240 241 242;
+    --light-text: 154 158 166;
+  }
+}
+
+html {
+  font-family: var(--font-fredoka);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+
+@supports (font: -apple-system-body) and (-webkit-appearance: none) {
+  img[loading='lazy'] {
+    clip-path: inset(0.6px);
+  }
+}
+
+@keyframes loading-shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.loading-shimmer {
+  animation: loading-shimmer 1s infinite linear;
+  background: linear-gradient(
+    100deg,
+    rgb(255 255 255 / 0) 20%,
+    rgb(255 255 255 / 0.3) 50%,
+    rgb(255 255 255 / 0) 80%
+  );
+}

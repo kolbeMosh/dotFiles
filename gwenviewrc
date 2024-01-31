@@ -1,0 +1,26 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 XPosition 1920x1080=640
+eDP-1 HDMI-1-0 YPosition 1920x1080=289
+eDP-1 XPosition 1920x1080=640
+eDP-1 YPosition 1920x1080=289
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Devpost_files/small_003.png
+File2[$e]=$HOME/Downloads/Untitled-2023-08-25-1135.png
+File3[$e]=$HOME/.config/kitty/thumbnail.jpeg
+Name1[$e]=small_003.png
+Name2[$e]=Untitled-2023-08-25-1135.png
+Name3[$e]=thumbnail.jpeg

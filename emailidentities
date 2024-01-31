@@ -1,0 +1,12 @@
+[General]
+Default Identity=811377397
+
+[Identity #0]
+Default Domain=Kolbe-School-Ubuntu
+Disable Fcc=false
+Identity=Kolbe
+Image Location=
+Inline Signature=
+Name=Kolbe
+Signature Enabled=false
+uoid=811377397

@@ -1,0 +1,14 @@
+# GIMP action-history
+
+(history-item "tools-clone" 1)
+(history-item "file-open" 0)
+(history-item "view-zoom-revert" 1)
+(history-item "layers-edit" 0)
+(history-item "tools-heal" 0)
+(history-item "tools-ellipse-select" 0)
+(history-item "edit-clear" 0)
+(history-item "tools-bucket-fill" 0)
+(history-item "tools-rect-select" 0)
+(history-item "brushes-refresh" 1)
+
+# end of action-history

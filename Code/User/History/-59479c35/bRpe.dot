@@ -1,0 +1,10 @@
+digraph finite_state_machine {
+	rankdir=LR
+	size="8,5"
+    layout=dot
+	node [shape = doublecircle]; 4;
+	node [shape = circle];
+
+    -1 -> 0 [color="white", label=""]
+
+}

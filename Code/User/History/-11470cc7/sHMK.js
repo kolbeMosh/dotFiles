@@ -1,0 +1,3 @@
+const calcInvestTime = (principle, goal, ) => {
+
+}

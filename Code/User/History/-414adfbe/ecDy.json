@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 1
+}

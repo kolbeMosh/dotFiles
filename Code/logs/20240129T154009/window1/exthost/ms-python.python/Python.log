@@ -1,0 +1,62 @@
+2024-01-29 15:41:51.846 [info] Experiment 'pythonaacf' is active
+2024-01-29 15:41:51.846 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-29 15:41:51.846 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-29 15:41:51.846 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-29 15:41:51.846 [info] Experiment 'pythonTestAdapter' is active
+2024-01-29 15:41:51.846 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/kolbe/CSCI_251
+2024-01-29 15:41:51.846 [info] Test server listening.
+2024-01-29 15:41:51.861 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-29 15:41:51.894 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-29 15:41:51.894 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-29 15:41:51.894 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-29 15:41:51.894 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-29 15:41:51.897 [info] Python interpreter path: /bin/python3
+2024-01-29 15:41:51.904 [info] > conda info --json
+2024-01-29 15:41:51.934 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-29 15:41:53.075 [info] Starting Pylance language server.
+2024-01-29 15:52:28.751 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 15:54:18.297 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 15:54:24.355 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 15:55:40.596 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 15:55:42.104 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/LogicGate.py
+2024-01-29 15:56:17.278 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/LogicGate.py
+2024-01-29 15:58:43.249 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/LogicGate.py
+2024-01-29 15:58:50.910 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 15:59:03.889 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 15:59:05.194 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/BinaryGate.py
+2024-01-29 16:03:46.229 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/BinaryGate.py
+2024-01-29 16:14:40.814 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/BinaryGate.py
+2024-01-29 16:21:27.720 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/BinaryGate.py
+2024-01-29 16:22:40.512 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/LogicGate.py
+2024-01-29 16:22:51.516 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/LogicGate.py
+2024-01-29 16:28:22.339 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:28:37.739 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:28:50.051 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:29:44.734 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:30:54.652 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:31:42.894 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:32:14.787 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:32:33.219 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:32:47.246 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:32:55.558 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/AndGate.py
+2024-01-29 16:33:14.674 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/AndGate.py
+2024-01-29 16:33:19.719 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/AndGate.py
+2024-01-29 16:33:36.115 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:33:57.269 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:34:45.808 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:35:09.353 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/OrGate.py
+2024-01-29 16:35:26.946 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/AndGate.py
+2024-01-29 16:35:47.948 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/AndGate.py
+2024-01-29 16:36:24.780 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:36:31.388 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/NotGate.py
+2024-01-29 16:36:43.975 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:36:47.169 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/Connector.py
+2024-01-29 16:36:58.514 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:36:59.637 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/HalfAdder.py
+2024-01-29 16:37:51.041 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:38:01.606 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:38:15.805 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:38:22.182 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:38:34.450 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:38:46.098 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/UnaryGate.py
+2024-01-29 16:38:49.975 [info] Discover tests for workspace name: CSCI_251 - uri: /home/kolbe/CSCI_251/hw2/BinaryGate.py

@@ -1,0 +1,12 @@
+{
+  "PROJECTS": [],
+  "PROJECT_PREFERENCES": {
+    "ignatius-book-fairs": {
+      "lastBrowser": {
+        "name": "firefox",
+        "channel": "stable"
+      },
+      "testingType": "e2e"
+    }
+  }
+}

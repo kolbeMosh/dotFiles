@@ -1,0 +1,16 @@
+{
+  "extends": "@ibc/typescript-config/nextjs.json",
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    ".",
+    "../../apps/ignatius-book-fairs/src/app/HomePage/HeroSec",
+    "../../apps/ignatius-book-fairs/src/app/HomePage/Hero.tsx"
+  ],
+  "exclude": ["dist", "build", "node_modules"]
+}
